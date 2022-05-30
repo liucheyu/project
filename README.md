@@ -4,6 +4,7 @@
 紀錄一些心中想完成的專案
 - [ ] line bot記帳本(go)
 - [ ] line bot記帳本(java)
+- [ ] chrome extension擴充套件，製作抓網頁中同域名圖片或音源
 - [ ] 個人部落格
 - [ ] 購物網站(前端Vus3+後端java或go)
 - [ ] 遊戲伺服器
