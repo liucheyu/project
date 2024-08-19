@@ -1,22 +1,24 @@
-# 我的計畫和例行公事
+# 計畫和知識
 
 ## 計畫
-紀錄一些心中想完成的專案
-- [ ] line bot記帳本(go)
-- [ ] line bot記帳本(java)
-- [ ] chrome extension擴充套件，製作抓網頁中同域名圖片或音源
-- [ ] 個人部落格
-- [ ] 購物網站(前端Vus3+後端java或go)
+專案
+- [ ] chrome extension擴充套件
+- [ ] 技術分享blog
+- [ ] 購物網站
 - [ ] 遊戲伺服器
-- [ ] 棋牌H5遊戲(用pixi或cocos)
-- [ ] 老虎機H5遊戲(用pixi或cocos)
 
-## 例行公事
-每天或定時實行的例行事務
-- 刷刷leatcode題目(動動腦解題)
-- 算算數學(動動腦解題) ->週期 目前為每天
-- 定期做程式演算
-- 定期回看設計模式(畢竟有些模式不常用，回來看看)
-- 定期看clean code、極限編程(有助於提升code的品質和彈性)
-- 晚上寫一點程式 ->週期 目前為每天 
-- 看書(各類型)->週期 目前為每天  
+## 工程師技術&知識
+- 電腦科學
+- leatcode
+- 數學
+- 演算法
+- 設計模式
+- clean code、極限編程、阿里巴巴開發手冊
+- java17/jvm/juc
+- mysql
+- aws相關
+- 英日文 
+- 閱讀
+- spring boot
+- spring cloud
+- mybatis、mybatis plus
